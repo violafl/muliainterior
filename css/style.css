@@ -480,9 +480,10 @@ h1, h2, h3, h4, h5,
   width: 100%;
   padding: 1rem; }
   @media (max-width: 991.98px) {
-    .site-navbar {
+    /* .site-navbar {
       padding-top: 3rem;
-      padding-bottom: 3rem; } }
+      padding-bottom: 3rem; }  */
+    }
   .site-navbar .toggle-button {
     position: absolute;
     right: 0px; }
@@ -1650,7 +1651,7 @@ h1, h2, h3, h4, h5,
   margin-bottom: 60px; }
   .media-02819 .small {
     position: relative;
-    height: 400px;
+    /* height: 400px; */
     width: 100%;
     overflow: hidden; }
   .media-02819 .img-link {
